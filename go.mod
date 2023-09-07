@@ -1,1 +1,1 @@
-module cache1.0
+module github.com/hylio/Cache
